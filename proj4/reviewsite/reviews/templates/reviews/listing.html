@@ -1,0 +1,37 @@
+{% extends "base_generic.html" %}
+{% block content %}
+    {% if reviews_list %}
+    <ol>
+        <hr>
+        {% for review in reviews_list %}
+            <h4>{{ review.user.username }}</h4>
+            <h3>{{ review.doctor.last_name }} {{ review.doctor.first_name }} {{ review.doctor.second_name }}</h3>
+            <h4>
+                {% for spec in review.doctor.speciality.all|slice:'1:' %}
+                    {{ spec.name }},
+                {% endfor %}
+                {% for spec in review.doctor.speciality.all|slice:'1' %}
+                    {{ spec.name }}
+                {% endfor %}
+            </h4>
+            <p>
+            {% for word in review.edited_review.split %}
+                {% if '@m@' in word and word.lower|slice:'-4' in excepted_list %}
+                    {{ word|slice:'-3' }}
+                {% elif '@m@' in word and word.lower|slice:'-3' in excepted_list %}
+                    {{ word|slice:'-3' }}
+                {% elif '@m@' in word %}
+                    <span style='color:red'>{{ word|slice:'-3' }}</span>
+                {% else %}
+                    {{ word }}
+                {% endif %}
+            {% endfor %}
+            </p>
+            <small>{{ review.created_at|date:"d-m-Y" }}</small>
+            <hr>
+        {% endfor %}
+    </ol>
+    {% else %}
+        <p>No reviews are available.</p>
+    {% endif %}
+{% endblock %}

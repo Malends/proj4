@@ -1,0 +1,7 @@
+{% extends "base_generic.html" %}
+{% block content %}
+    <form action="{% url 'review_list' %}">
+        <h2>Отзыв отправлен</h2>
+        <input type="submit" value="Просмотреть отзывы">
+    </form>
+{% endblock %}

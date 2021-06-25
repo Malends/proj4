@@ -1,0 +1,8 @@
+for busy_c in busy_cells:
+    doctor = json_data['data'][CLINIC_ID][busy_c['docid']]
+    for free_c in doctor['cells']:
+        free_start = get_time_datetime(free_c['time_start'])
+        free_end = get_time_datetime(free_c['time_end'])
+        cond = stamp_compare(busy_c['time_start'], busy_c['time_end'], free_start, free_end)
+        if busy_c['dt'] == free_c['dt'] and cond:
+            free_c['free'] = False 

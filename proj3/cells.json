@@ -1,0 +1,2558 @@
+{
+    "51593a32-3422-11e9-8164-00505691524e": "\u041c\u0418\u0421 1\u0421 \u0411\u0418\u0422 \u0423\u041c\u0426",
+    "data": {
+        "51593a32-3422-11e9-8164-00505691524e": {
+            "1010fb19-8d27-11eb-b910-005056a7427d": {
+                "cells": [
+                    {
+                        "dt": "2021-06-16",
+                        "free": true,
+                        "time_end": "10:00",
+                        "time_start": "09:30"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": true,
+                        "time_end": "11:30",
+                        "time_start": "11:00"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": true,
+                        "time_end": "12:30",
+                        "time_start": "12:00"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "09:00",
+                        "time_start": "08:30"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "09:30",
+                        "time_start": "09:00"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "10:00",
+                        "time_start": "09:30"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "11:50",
+                        "time_start": "11:20"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "12:20",
+                        "time_start": "11:50"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "15:30",
+                        "time_start": "15:00"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "16:00",
+                        "time_start": "15:30"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "16:30",
+                        "time_start": "16:00"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "17:00",
+                        "time_start": "16:30"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "17:30",
+                        "time_start": "17:00"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "18:00",
+                        "time_start": "17:30"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "18:30",
+                        "time_start": "18:00"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "19:00",
+                        "time_start": "18:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "09:00",
+                        "time_start": "08:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "09:30",
+                        "time_start": "09:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "10:00",
+                        "time_start": "09:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "10:30",
+                        "time_start": "10:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "11:00",
+                        "time_start": "10:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "11:30",
+                        "time_start": "11:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "12:00",
+                        "time_start": "11:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "12:30",
+                        "time_start": "12:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "09:00",
+                        "time_start": "08:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "09:30",
+                        "time_start": "09:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "10:00",
+                        "time_start": "09:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "10:30",
+                        "time_start": "10:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "11:00",
+                        "time_start": "10:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "11:30",
+                        "time_start": "11:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "12:00",
+                        "time_start": "11:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "12:30",
+                        "time_start": "12:00"
+                    },
+                    {
+                        "dt": "2021-06-14",
+                        "free": false,
+                        "time_end": "10:10",
+                        "time_start": "08:20"
+                    },
+                    {
+                        "dt": "2021-06-14",
+                        "free": false,
+                        "time_end": "11:20",
+                        "time_start": "10:30"
+                    },
+                    {
+                        "dt": "2021-06-14",
+                        "free": false,
+                        "time_end": "12:50",
+                        "time_start": "11:40"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": false,
+                        "time_end": "09:30",
+                        "time_start": "08:30"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": false,
+                        "time_end": "10:20",
+                        "time_start": "10:00"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": false,
+                        "time_end": "11:00",
+                        "time_start": "10:30"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": false,
+                        "time_end": "12:00",
+                        "time_start": "11:30"
+                    },
+                    {
+                        "dt": "2021-06-18",
+                        "free": false,
+                        "time_end": "12:30",
+                        "time_start": "08:30"
+                    },
+                    {
+                        "dt": "2021-06-21",
+                        "free": false,
+                        "time_end": "16:40",
+                        "time_start": "15:00"
+                    },
+                    {
+                        "dt": "2021-06-21",
+                        "free": false,
+                        "time_end": "19:00",
+                        "time_start": "17:00"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": false,
+                        "time_end": "11:20",
+                        "time_start": "10:00"
+                    }
+                ],
+                "efio": "\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432\u0430 \u042e\u043b\u0438\u044f \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043d\u0430",
+                "espec": "\u0413\u0438\u043d\u0435\u043a\u043e\u043b\u043e\u0433\u0438\u044f"
+            },
+            "4b9a276b-20b4-11eb-b710-005056a7427d": {
+                "cells": [],
+                "efio": "\u0413\u0430\u043b\u0438\u0437\u0438\u043d \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0422\u0438\u0445\u043e\u043d\u043e\u0432\u0438\u0447",
+                "espec": ""
+            },
+            "6b2b0767-9f0e-11e9-80f0-005056b620de": {
+                "cells": [],
+                "efio": "\u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432 \u041c\u0430\u0440\u0430\u0442 \u0420\u0443\u0448\u0430\u043d\u043e\u0432\u0438\u0447",
+                "espec": ""
+            },
+            "8c4f467f-4569-11e9-80e2-005056b6a1a7": {
+                "cells": [
+                    {
+                        "dt": "2021-06-16",
+                        "free": true,
+                        "time_end": "09:30",
+                        "time_start": "09:00"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": true,
+                        "time_end": "10:00",
+                        "time_start": "09:30"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": true,
+                        "time_end": "13:50",
+                        "time_start": "13:20"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": true,
+                        "time_end": "14:20",
+                        "time_start": "13:50"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": true,
+                        "time_end": "14:50",
+                        "time_start": "14:20"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": true,
+                        "time_end": "15:20",
+                        "time_start": "14:50"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": true,
+                        "time_end": "15:50",
+                        "time_start": "15:20"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "08:50",
+                        "time_start": "08:20"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "09:20",
+                        "time_start": "08:50"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "09:50",
+                        "time_start": "09:20"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "10:20",
+                        "time_start": "09:50"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "11:50",
+                        "time_start": "11:20"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "13:10",
+                        "time_start": "12:40"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "13:40",
+                        "time_start": "13:10"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "15:00",
+                        "time_start": "14:30"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "15:30",
+                        "time_start": "15:00"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "16:00",
+                        "time_start": "15:30"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": true,
+                        "time_end": "08:30",
+                        "time_start": "08:00"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": true,
+                        "time_end": "09:00",
+                        "time_start": "08:30"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": true,
+                        "time_end": "09:30",
+                        "time_start": "09:00"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": true,
+                        "time_end": "10:00",
+                        "time_start": "09:30"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": true,
+                        "time_end": "10:30",
+                        "time_start": "10:00"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": true,
+                        "time_end": "11:00",
+                        "time_start": "10:30"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": true,
+                        "time_end": "11:30",
+                        "time_start": "11:00"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": true,
+                        "time_end": "12:00",
+                        "time_start": "11:30"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": true,
+                        "time_end": "13:10",
+                        "time_start": "12:40"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": true,
+                        "time_end": "13:40",
+                        "time_start": "13:10"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": true,
+                        "time_end": "14:10",
+                        "time_start": "13:40"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": true,
+                        "time_end": "14:40",
+                        "time_start": "14:10"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": true,
+                        "time_end": "15:10",
+                        "time_start": "14:40"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": true,
+                        "time_end": "15:40",
+                        "time_start": "15:10"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "08:30",
+                        "time_start": "08:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "09:00",
+                        "time_start": "08:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "09:30",
+                        "time_start": "09:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "10:00",
+                        "time_start": "09:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "10:30",
+                        "time_start": "10:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "11:00",
+                        "time_start": "10:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "11:30",
+                        "time_start": "11:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "12:00",
+                        "time_start": "11:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "12:30",
+                        "time_start": "12:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "13:00",
+                        "time_start": "12:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "13:30",
+                        "time_start": "13:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "14:00",
+                        "time_start": "13:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "14:30",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "15:00",
+                        "time_start": "14:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "15:30",
+                        "time_start": "15:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "16:00",
+                        "time_start": "15:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "08:30",
+                        "time_start": "08:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "09:00",
+                        "time_start": "08:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "09:30",
+                        "time_start": "09:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "10:00",
+                        "time_start": "09:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "10:30",
+                        "time_start": "10:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "11:00",
+                        "time_start": "10:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "11:30",
+                        "time_start": "11:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "12:00",
+                        "time_start": "11:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "12:30",
+                        "time_start": "12:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "13:00",
+                        "time_start": "12:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "13:30",
+                        "time_start": "13:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "14:00",
+                        "time_start": "13:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "14:30",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "15:00",
+                        "time_start": "14:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "15:30",
+                        "time_start": "15:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "16:00",
+                        "time_start": "15:30"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": false,
+                        "time_end": "09:00",
+                        "time_start": "08:00"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": false,
+                        "time_end": "10:20",
+                        "time_start": "10:00"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": false,
+                        "time_end": "11:20",
+                        "time_start": "10:40"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": false,
+                        "time_end": "12:20",
+                        "time_start": "11:30"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": false,
+                        "time_end": "13:20",
+                        "time_start": "12:30"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": false,
+                        "time_end": "08:20",
+                        "time_start": "08:00"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": false,
+                        "time_end": "11:20",
+                        "time_start": "10:40"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": false,
+                        "time_end": "12:40",
+                        "time_start": "12:00"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": false,
+                        "time_end": "14:30",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": false,
+                        "time_end": "12:40",
+                        "time_start": "12:20"
+                    }
+                ],
+                "efio": "\u041a\u0443\u0434\u0440\u044f\u0432\u0446\u0435\u0432\u0430 \u041e\u043a\u0441\u0430\u043d\u0430 \u041b\u0435\u043e\u043d\u0438\u0434\u043e\u0432\u043d\u0430",
+                "espec": ""
+            },
+            "907b55bd-d5e2-11e9-948f-005056a7427d": {
+                "cells": [],
+                "efio": "\u041a\u043e\u0441\u0442\u044e\u043a  \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0413\u0440\u0438\u0433\u043e\u0440\u044c\u0435\u0432\u043d\u0430",
+                "espec": ""
+            },
+            "bc5935b6-681d-11e9-80f1-005056b645d8": {
+                "cells": [],
+                "efio": "\u0420\u0430\u0433\u0443\u043b\u0438\u043d\u0430 \u0412\u0435\u0440\u0430 \u0418\u0433\u043e\u0440\u0435\u0432\u043d\u0430",
+                "espec": ""
+            },
+            "c5eb7474-3b1c-11e9-80e3-005056b6920e": {
+                "cells": [
+                    {
+                        "dt": "2021-06-16",
+                        "free": true,
+                        "time_end": "19:10",
+                        "time_start": "18:40"
+                    },
+                    {
+                        "dt": "2021-06-21",
+                        "free": true,
+                        "time_end": "08:30",
+                        "time_start": "08:00"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "14:30",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "15:00",
+                        "time_start": "14:30"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "15:30",
+                        "time_start": "15:00"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "16:00",
+                        "time_start": "15:30"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "16:30",
+                        "time_start": "16:00"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "17:20",
+                        "time_start": "16:50"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "17:50",
+                        "time_start": "17:20"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "18:20",
+                        "time_start": "17:50"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "18:50",
+                        "time_start": "18:20"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "19:20",
+                        "time_start": "18:50"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "19:50",
+                        "time_start": "19:20"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "08:30",
+                        "time_start": "08:00"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "09:00",
+                        "time_start": "08:30"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "10:30",
+                        "time_start": "10:00"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "11:00",
+                        "time_start": "10:30"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "11:30",
+                        "time_start": "11:00"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "12:00",
+                        "time_start": "11:30"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "13:00",
+                        "time_start": "12:30"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "13:30",
+                        "time_start": "13:00"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "14:00",
+                        "time_start": "13:30"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "14:50",
+                        "time_start": "14:20"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "15:20",
+                        "time_start": "14:50"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "16:30",
+                        "time_start": "16:00"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "17:00",
+                        "time_start": "16:30"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "17:30",
+                        "time_start": "17:00"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "18:00",
+                        "time_start": "17:30"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "18:30",
+                        "time_start": "18:00"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "19:40",
+                        "time_start": "19:10"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "14:30",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "15:00",
+                        "time_start": "14:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "15:30",
+                        "time_start": "15:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "16:00",
+                        "time_start": "15:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "16:30",
+                        "time_start": "16:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "17:00",
+                        "time_start": "16:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "17:30",
+                        "time_start": "17:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "18:00",
+                        "time_start": "17:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "18:30",
+                        "time_start": "18:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "19:00",
+                        "time_start": "18:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "19:30",
+                        "time_start": "19:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "20:00",
+                        "time_start": "19:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "15:10",
+                        "time_start": "14:40"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "15:40",
+                        "time_start": "15:10"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "16:10",
+                        "time_start": "15:40"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "16:40",
+                        "time_start": "16:10"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "17:10",
+                        "time_start": "16:40"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "17:40",
+                        "time_start": "17:10"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "18:10",
+                        "time_start": "17:40"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "18:40",
+                        "time_start": "18:10"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "19:10",
+                        "time_start": "18:40"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "19:40",
+                        "time_start": "19:10"
+                    },
+                    {
+                        "dt": "2021-06-14",
+                        "free": false,
+                        "time_end": "19:50",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": false,
+                        "time_end": "17:40",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": false,
+                        "time_end": "18:40",
+                        "time_start": "17:50"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": false,
+                        "time_end": "20:00",
+                        "time_start": "19:20"
+                    },
+                    {
+                        "dt": "2021-06-18",
+                        "free": false,
+                        "time_end": "10:20",
+                        "time_start": "08:00"
+                    },
+                    {
+                        "dt": "2021-06-18",
+                        "free": false,
+                        "time_end": "14:10",
+                        "time_start": "10:40"
+                    },
+                    {
+                        "dt": "2021-06-21",
+                        "free": false,
+                        "time_end": "14:00",
+                        "time_start": "08:40"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": false,
+                        "time_end": "16:50",
+                        "time_start": "16:30"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": false,
+                        "time_end": "10:00",
+                        "time_start": "09:20"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": false,
+                        "time_end": "12:30",
+                        "time_start": "12:00"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": false,
+                        "time_end": "14:20",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": false,
+                        "time_end": "16:00",
+                        "time_start": "15:30"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": false,
+                        "time_end": "19:10",
+                        "time_start": "18:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": false,
+                        "time_end": "14:40",
+                        "time_start": "14:00"
+                    }
+                ],
+                "efio": "\u0411\u043e\u043b\u0434\u0438\u043d\u0430 \u0418\u0440\u0438\u043d\u0430 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043d\u0430",
+                "espec": "\u0413\u0438\u043d\u0435\u043a\u043e\u043b\u043e\u0433\u0438\u044f"
+            },
+            "c5eb7478-3b1c-11e9-80e3-005056b6920e": {
+                "cells": [
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "17:40",
+                        "time_start": "17:10"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "18:10",
+                        "time_start": "17:40"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "20:00",
+                        "time_start": "19:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": false,
+                        "time_end": "19:50",
+                        "time_start": "16:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": false,
+                        "time_end": "17:10",
+                        "time_start": "16:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": false,
+                        "time_end": "18:30",
+                        "time_start": "18:10"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": false,
+                        "time_end": "19:30",
+                        "time_start": "18:50"
+                    }
+                ],
+                "efio": "\u041a\u043e\u0432\u0430\u043b\u044c \u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447",
+                "espec": "\u0423\u0440\u043e\u043b\u043e\u0433\u0438\u044f"
+            },
+            "c5eb747c-3b1c-11e9-80e3-005056b6920e": {
+                "cells": [
+                    {
+                        "dt": "2021-06-15",
+                        "free": true,
+                        "time_end": "20:00",
+                        "time_start": "19:30"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": true,
+                        "time_end": "17:30",
+                        "time_start": "17:00"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "17:30",
+                        "time_start": "17:00"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "18:00",
+                        "time_start": "17:30"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "19:30",
+                        "time_start": "19:00"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "20:00",
+                        "time_start": "19:30"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": true,
+                        "time_end": "18:00",
+                        "time_start": "17:30"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": true,
+                        "time_end": "20:00",
+                        "time_start": "19:30"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "18:00",
+                        "time_start": "17:30"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "18:30",
+                        "time_start": "18:00"
+                    },
+                    {
+                        "dt": "2021-06-15",
+                        "free": false,
+                        "time_end": "19:30",
+                        "time_start": "17:00"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": false,
+                        "time_end": "19:00",
+                        "time_start": "17:30"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": false,
+                        "time_end": "19:00",
+                        "time_start": "18:00"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": false,
+                        "time_end": "17:30",
+                        "time_start": "17:00"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": false,
+                        "time_end": "19:30",
+                        "time_start": "18:00"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": false,
+                        "time_end": "17:30",
+                        "time_start": "17:00"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": false,
+                        "time_end": "19:40",
+                        "time_start": "18:30"
+                    }
+                ],
+                "efio": "\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432\u0430 \u0418\u0440\u0438\u043d\u0430 \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u043d\u0430",
+                "espec": "\u0413\u0438\u043d\u0435\u043a\u043e\u043b\u043e\u0433\u0438\u044f"
+            },
+            "c5eb747e-3b1c-11e9-80e3-005056b6920e": {
+                "cells": [
+                    {
+                        "dt": "2021-06-14",
+                        "free": true,
+                        "time_end": "18:30",
+                        "time_start": "18:00"
+                    },
+                    {
+                        "dt": "2021-06-14",
+                        "free": true,
+                        "time_end": "19:20",
+                        "time_start": "18:50"
+                    },
+                    {
+                        "dt": "2021-06-14",
+                        "free": true,
+                        "time_end": "19:50",
+                        "time_start": "19:20"
+                    },
+                    {
+                        "dt": "2021-06-15",
+                        "free": true,
+                        "time_end": "08:30",
+                        "time_start": "08:00"
+                    },
+                    {
+                        "dt": "2021-06-17",
+                        "free": true,
+                        "time_end": "18:50",
+                        "time_start": "18:20"
+                    },
+                    {
+                        "dt": "2021-06-21",
+                        "free": true,
+                        "time_end": "12:50",
+                        "time_start": "12:20"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "10:30",
+                        "time_start": "10:00"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "11:00",
+                        "time_start": "10:30"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "11:30",
+                        "time_start": "11:00"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "12:00",
+                        "time_start": "11:30"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "12:30",
+                        "time_start": "12:00"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "13:00",
+                        "time_start": "12:30"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": true,
+                        "time_end": "13:30",
+                        "time_start": "13:00"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "15:10",
+                        "time_start": "14:40"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "15:40",
+                        "time_start": "15:10"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "16:10",
+                        "time_start": "15:40"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "16:40",
+                        "time_start": "16:10"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "17:10",
+                        "time_start": "16:40"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "17:40",
+                        "time_start": "17:10"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "18:10",
+                        "time_start": "17:40"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "18:40",
+                        "time_start": "18:10"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "19:10",
+                        "time_start": "18:40"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": true,
+                        "time_end": "19:40",
+                        "time_start": "19:10"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "10:50",
+                        "time_start": "10:20"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "11:20",
+                        "time_start": "10:50"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "11:50",
+                        "time_start": "11:20"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "12:20",
+                        "time_start": "11:50"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "12:50",
+                        "time_start": "12:20"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "13:20",
+                        "time_start": "12:50"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "13:50",
+                        "time_start": "13:20"
+                    },
+                    {
+                        "dt": "2021-06-26",
+                        "free": true,
+                        "time_end": "11:50",
+                        "time_start": "11:20"
+                    },
+                    {
+                        "dt": "2021-06-26",
+                        "free": true,
+                        "time_end": "12:20",
+                        "time_start": "11:50"
+                    },
+                    {
+                        "dt": "2021-06-26",
+                        "free": true,
+                        "time_end": "12:50",
+                        "time_start": "12:20"
+                    },
+                    {
+                        "dt": "2021-06-26",
+                        "free": true,
+                        "time_end": "13:20",
+                        "time_start": "12:50"
+                    },
+                    {
+                        "dt": "2021-06-26",
+                        "free": true,
+                        "time_end": "13:50",
+                        "time_start": "13:20"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "10:30",
+                        "time_start": "10:00"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "11:00",
+                        "time_start": "10:30"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "11:30",
+                        "time_start": "11:00"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "12:00",
+                        "time_start": "11:30"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "12:30",
+                        "time_start": "12:00"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "13:00",
+                        "time_start": "12:30"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "13:30",
+                        "time_start": "13:00"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "14:00",
+                        "time_start": "13:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "14:30",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "15:00",
+                        "time_start": "14:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "15:30",
+                        "time_start": "15:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "16:00",
+                        "time_start": "15:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "16:30",
+                        "time_start": "16:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "17:00",
+                        "time_start": "16:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "17:30",
+                        "time_start": "17:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "18:00",
+                        "time_start": "17:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "18:30",
+                        "time_start": "18:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "19:00",
+                        "time_start": "18:30"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "19:30",
+                        "time_start": "19:00"
+                    },
+                    {
+                        "dt": "2021-06-30",
+                        "free": true,
+                        "time_end": "20:00",
+                        "time_start": "19:30"
+                    },
+                    {
+                        "dt": "2021-06-14",
+                        "free": false,
+                        "time_end": "18:00",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-06-14",
+                        "free": false,
+                        "time_end": "18:50",
+                        "time_start": "18:40"
+                    },
+                    {
+                        "dt": "2021-06-15",
+                        "free": false,
+                        "time_end": "09:20",
+                        "time_start": "08:30"
+                    },
+                    {
+                        "dt": "2021-06-15",
+                        "free": false,
+                        "time_end": "09:40",
+                        "time_start": "09:30"
+                    },
+                    {
+                        "dt": "2021-06-15",
+                        "free": false,
+                        "time_end": "11:50",
+                        "time_start": "09:50"
+                    },
+                    {
+                        "dt": "2021-06-15",
+                        "free": false,
+                        "time_end": "13:50",
+                        "time_start": "12:00"
+                    },
+                    {
+                        "dt": "2021-06-17",
+                        "free": false,
+                        "time_end": "16:30",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-06-17",
+                        "free": false,
+                        "time_end": "18:20",
+                        "time_start": "16:50"
+                    },
+                    {
+                        "dt": "2021-06-19",
+                        "free": false,
+                        "time_end": "14:00",
+                        "time_start": "09:50"
+                    },
+                    {
+                        "dt": "2021-06-21",
+                        "free": false,
+                        "time_end": "12:20",
+                        "time_start": "10:00"
+                    },
+                    {
+                        "dt": "2021-06-21",
+                        "free": false,
+                        "time_end": "13:40",
+                        "time_start": "13:00"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": false,
+                        "time_end": "13:50",
+                        "time_start": "13:40"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": false,
+                        "time_end": "14:30",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": false,
+                        "time_end": "13:30",
+                        "time_start": "13:20"
+                    },
+                    {
+                        "dt": "2021-06-23",
+                        "free": false,
+                        "time_end": "14:40",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": false,
+                        "time_end": "10:20",
+                        "time_start": "10:00"
+                    },
+                    {
+                        "dt": "2021-06-26",
+                        "free": false,
+                        "time_end": "11:20",
+                        "time_start": "10:00"
+                    }
+                ],
+                "efio": "\u041a\u043e\u0441\u044b\u0445 \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043d\u0430",
+                "espec": "\u0413\u0438\u043d\u0435\u043a\u043e\u043b\u043e\u0433\u0438\u044f"
+            },
+            "c5eb7481-3b1c-11e9-80e3-005056b6920e": {
+                "cells": [],
+                "efio": "\u041f\u0435\u0440\u0435\u0433\u0443\u0434\u043e\u0432\u0430 \u0415\u043b\u0435\u043d\u0430 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043d\u0430",
+                "espec": "\u0422\u0435\u0440\u0430\u043f\u0438\u044f"
+            },
+            "d93e8b32-ced0-11e9-948f-005056a7427d": {
+                "cells": [
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "10:10",
+                        "time_start": "09:40"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "10:40",
+                        "time_start": "10:10"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "11:10",
+                        "time_start": "10:40"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "16:30",
+                        "time_start": "16:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "17:00",
+                        "time_start": "16:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "18:30",
+                        "time_start": "18:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": true,
+                        "time_end": "19:00",
+                        "time_start": "18:30"
+                    },
+                    {
+                        "dt": "2021-06-17",
+                        "free": false,
+                        "time_end": "12:00",
+                        "time_start": "08:00"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": false,
+                        "time_end": "09:40",
+                        "time_start": "09:00"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": false,
+                        "time_end": "12:00",
+                        "time_start": "11:30"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": false,
+                        "time_end": "16:00",
+                        "time_start": "15:00"
+                    },
+                    {
+                        "dt": "2021-06-28",
+                        "free": false,
+                        "time_end": "18:00",
+                        "time_start": "17:00"
+                    }
+                ],
+                "efio": "\u041a\u043e\u0442\u043e\u0432\u0430 \u041e\u043b\u044c\u0433\u0430 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043d\u0430",
+                "espec": "\u0413\u0438\u043d\u0435\u043a\u043e\u043b\u043e\u0433\u0438\u044f"
+            },
+            "fd34b703-398e-11e9-80e1-005056b601ac": {
+                "cells": [
+                    {
+                        "dt": "2021-06-17",
+                        "free": true,
+                        "time_end": "14:30",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "10:10",
+                        "time_start": "09:40"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "11:50",
+                        "time_start": "11:20"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "12:20",
+                        "time_start": "11:50"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "12:50",
+                        "time_start": "12:20"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "13:20",
+                        "time_start": "12:50"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": true,
+                        "time_end": "13:50",
+                        "time_start": "13:20"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "14:50",
+                        "time_start": "14:20"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "15:20",
+                        "time_start": "14:50"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "15:50",
+                        "time_start": "15:20"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "16:20",
+                        "time_start": "15:50"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "16:50",
+                        "time_start": "16:20"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "17:20",
+                        "time_start": "16:50"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "17:50",
+                        "time_start": "17:20"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": true,
+                        "time_end": "18:50",
+                        "time_start": "18:20"
+                    },
+                    {
+                        "dt": "2021-07-01",
+                        "free": true,
+                        "time_end": "14:00",
+                        "time_start": "13:30"
+                    },
+                    {
+                        "dt": "2021-07-01",
+                        "free": true,
+                        "time_end": "14:30",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-07-01",
+                        "free": true,
+                        "time_end": "15:00",
+                        "time_start": "14:30"
+                    },
+                    {
+                        "dt": "2021-07-01",
+                        "free": true,
+                        "time_end": "15:30",
+                        "time_start": "15:00"
+                    },
+                    {
+                        "dt": "2021-07-01",
+                        "free": true,
+                        "time_end": "16:00",
+                        "time_start": "15:30"
+                    },
+                    {
+                        "dt": "2021-07-01",
+                        "free": true,
+                        "time_end": "16:30",
+                        "time_start": "16:00"
+                    },
+                    {
+                        "dt": "2021-07-01",
+                        "free": true,
+                        "time_end": "17:00",
+                        "time_start": "16:30"
+                    },
+                    {
+                        "dt": "2021-07-01",
+                        "free": true,
+                        "time_end": "17:30",
+                        "time_start": "17:00"
+                    },
+                    {
+                        "dt": "2021-07-01",
+                        "free": true,
+                        "time_end": "18:00",
+                        "time_start": "17:30"
+                    },
+                    {
+                        "dt": "2021-07-01",
+                        "free": true,
+                        "time_end": "18:30",
+                        "time_start": "18:00"
+                    },
+                    {
+                        "dt": "2021-07-01",
+                        "free": true,
+                        "time_end": "19:00",
+                        "time_start": "18:30"
+                    },
+                    {
+                        "dt": "2021-07-01",
+                        "free": true,
+                        "time_end": "19:30",
+                        "time_start": "19:00"
+                    },
+                    {
+                        "dt": "2021-07-03",
+                        "free": true,
+                        "time_end": "09:30",
+                        "time_start": "09:00"
+                    },
+                    {
+                        "dt": "2021-07-03",
+                        "free": true,
+                        "time_end": "10:00",
+                        "time_start": "09:30"
+                    },
+                    {
+                        "dt": "2021-07-03",
+                        "free": true,
+                        "time_end": "10:30",
+                        "time_start": "10:00"
+                    },
+                    {
+                        "dt": "2021-07-03",
+                        "free": true,
+                        "time_end": "11:00",
+                        "time_start": "10:30"
+                    },
+                    {
+                        "dt": "2021-07-03",
+                        "free": true,
+                        "time_end": "11:30",
+                        "time_start": "11:00"
+                    },
+                    {
+                        "dt": "2021-07-03",
+                        "free": true,
+                        "time_end": "12:00",
+                        "time_start": "11:30"
+                    },
+                    {
+                        "dt": "2021-07-03",
+                        "free": true,
+                        "time_end": "12:30",
+                        "time_start": "12:00"
+                    },
+                    {
+                        "dt": "2021-07-03",
+                        "free": true,
+                        "time_end": "13:00",
+                        "time_start": "12:30"
+                    },
+                    {
+                        "dt": "2021-07-03",
+                        "free": true,
+                        "time_end": "13:30",
+                        "time_start": "13:00"
+                    },
+                    {
+                        "dt": "2021-07-03",
+                        "free": true,
+                        "time_end": "14:00",
+                        "time_start": "13:30"
+                    },
+                    {
+                        "dt": "2021-07-06",
+                        "free": true,
+                        "time_end": "13:30",
+                        "time_start": "13:00"
+                    },
+                    {
+                        "dt": "2021-07-06",
+                        "free": true,
+                        "time_end": "14:00",
+                        "time_start": "13:30"
+                    },
+                    {
+                        "dt": "2021-07-06",
+                        "free": true,
+                        "time_end": "14:30",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-07-06",
+                        "free": true,
+                        "time_end": "15:00",
+                        "time_start": "14:30"
+                    },
+                    {
+                        "dt": "2021-07-06",
+                        "free": true,
+                        "time_end": "15:30",
+                        "time_start": "15:00"
+                    },
+                    {
+                        "dt": "2021-07-06",
+                        "free": true,
+                        "time_end": "16:00",
+                        "time_start": "15:30"
+                    },
+                    {
+                        "dt": "2021-07-06",
+                        "free": true,
+                        "time_end": "16:30",
+                        "time_start": "16:00"
+                    },
+                    {
+                        "dt": "2021-07-06",
+                        "free": true,
+                        "time_end": "17:00",
+                        "time_start": "16:30"
+                    },
+                    {
+                        "dt": "2021-07-06",
+                        "free": true,
+                        "time_end": "17:30",
+                        "time_start": "17:00"
+                    },
+                    {
+                        "dt": "2021-07-06",
+                        "free": true,
+                        "time_end": "18:00",
+                        "time_start": "17:30"
+                    },
+                    {
+                        "dt": "2021-07-06",
+                        "free": true,
+                        "time_end": "18:30",
+                        "time_start": "18:00"
+                    },
+                    {
+                        "dt": "2021-07-06",
+                        "free": true,
+                        "time_end": "19:00",
+                        "time_start": "18:30"
+                    },
+                    {
+                        "dt": "2021-07-06",
+                        "free": true,
+                        "time_end": "19:30",
+                        "time_start": "19:00"
+                    },
+                    {
+                        "dt": "2021-07-08",
+                        "free": true,
+                        "time_end": "13:30",
+                        "time_start": "13:00"
+                    },
+                    {
+                        "dt": "2021-07-08",
+                        "free": true,
+                        "time_end": "14:00",
+                        "time_start": "13:30"
+                    },
+                    {
+                        "dt": "2021-07-08",
+                        "free": true,
+                        "time_end": "14:30",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-07-08",
+                        "free": true,
+                        "time_end": "15:00",
+                        "time_start": "14:30"
+                    },
+                    {
+                        "dt": "2021-07-08",
+                        "free": true,
+                        "time_end": "15:30",
+                        "time_start": "15:00"
+                    },
+                    {
+                        "dt": "2021-07-08",
+                        "free": true,
+                        "time_end": "16:00",
+                        "time_start": "15:30"
+                    },
+                    {
+                        "dt": "2021-07-08",
+                        "free": true,
+                        "time_end": "16:30",
+                        "time_start": "16:00"
+                    },
+                    {
+                        "dt": "2021-07-08",
+                        "free": true,
+                        "time_end": "17:00",
+                        "time_start": "16:30"
+                    },
+                    {
+                        "dt": "2021-07-08",
+                        "free": true,
+                        "time_end": "17:30",
+                        "time_start": "17:00"
+                    },
+                    {
+                        "dt": "2021-07-08",
+                        "free": true,
+                        "time_end": "18:00",
+                        "time_start": "17:30"
+                    },
+                    {
+                        "dt": "2021-07-08",
+                        "free": true,
+                        "time_end": "18:40",
+                        "time_start": "18:10"
+                    },
+                    {
+                        "dt": "2021-07-08",
+                        "free": true,
+                        "time_end": "19:10",
+                        "time_start": "18:40"
+                    },
+                    {
+                        "dt": "2021-07-10",
+                        "free": true,
+                        "time_end": "09:30",
+                        "time_start": "09:00"
+                    },
+                    {
+                        "dt": "2021-07-10",
+                        "free": true,
+                        "time_end": "10:00",
+                        "time_start": "09:30"
+                    },
+                    {
+                        "dt": "2021-07-10",
+                        "free": true,
+                        "time_end": "10:30",
+                        "time_start": "10:00"
+                    },
+                    {
+                        "dt": "2021-07-10",
+                        "free": true,
+                        "time_end": "11:00",
+                        "time_start": "10:30"
+                    },
+                    {
+                        "dt": "2021-07-10",
+                        "free": true,
+                        "time_end": "11:30",
+                        "time_start": "11:00"
+                    },
+                    {
+                        "dt": "2021-07-10",
+                        "free": true,
+                        "time_end": "12:00",
+                        "time_start": "11:30"
+                    },
+                    {
+                        "dt": "2021-07-10",
+                        "free": true,
+                        "time_end": "12:30",
+                        "time_start": "12:00"
+                    },
+                    {
+                        "dt": "2021-07-10",
+                        "free": true,
+                        "time_end": "13:00",
+                        "time_start": "12:30"
+                    },
+                    {
+                        "dt": "2021-07-10",
+                        "free": true,
+                        "time_end": "13:30",
+                        "time_start": "13:00"
+                    },
+                    {
+                        "dt": "2021-07-10",
+                        "free": true,
+                        "time_end": "14:00",
+                        "time_start": "13:30"
+                    },
+                    {
+                        "dt": "2021-07-13",
+                        "free": true,
+                        "time_end": "13:30",
+                        "time_start": "13:00"
+                    },
+                    {
+                        "dt": "2021-07-13",
+                        "free": true,
+                        "time_end": "14:00",
+                        "time_start": "13:30"
+                    },
+                    {
+                        "dt": "2021-07-13",
+                        "free": true,
+                        "time_end": "14:30",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-07-13",
+                        "free": true,
+                        "time_end": "15:00",
+                        "time_start": "14:30"
+                    },
+                    {
+                        "dt": "2021-07-13",
+                        "free": true,
+                        "time_end": "15:30",
+                        "time_start": "15:00"
+                    },
+                    {
+                        "dt": "2021-07-13",
+                        "free": true,
+                        "time_end": "16:00",
+                        "time_start": "15:30"
+                    },
+                    {
+                        "dt": "2021-07-13",
+                        "free": true,
+                        "time_end": "16:30",
+                        "time_start": "16:00"
+                    },
+                    {
+                        "dt": "2021-07-13",
+                        "free": true,
+                        "time_end": "17:00",
+                        "time_start": "16:30"
+                    },
+                    {
+                        "dt": "2021-07-13",
+                        "free": true,
+                        "time_end": "17:30",
+                        "time_start": "17:00"
+                    },
+                    {
+                        "dt": "2021-07-13",
+                        "free": true,
+                        "time_end": "18:00",
+                        "time_start": "17:30"
+                    },
+                    {
+                        "dt": "2021-07-13",
+                        "free": true,
+                        "time_end": "18:30",
+                        "time_start": "18:00"
+                    },
+                    {
+                        "dt": "2021-07-13",
+                        "free": true,
+                        "time_end": "19:00",
+                        "time_start": "18:30"
+                    },
+                    {
+                        "dt": "2021-07-13",
+                        "free": true,
+                        "time_end": "19:30",
+                        "time_start": "19:00"
+                    },
+                    {
+                        "dt": "2021-07-15",
+                        "free": true,
+                        "time_end": "13:30",
+                        "time_start": "13:00"
+                    },
+                    {
+                        "dt": "2021-07-15",
+                        "free": true,
+                        "time_end": "14:00",
+                        "time_start": "13:30"
+                    },
+                    {
+                        "dt": "2021-07-15",
+                        "free": true,
+                        "time_end": "14:30",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-07-15",
+                        "free": true,
+                        "time_end": "15:00",
+                        "time_start": "14:30"
+                    },
+                    {
+                        "dt": "2021-07-15",
+                        "free": true,
+                        "time_end": "15:30",
+                        "time_start": "15:00"
+                    },
+                    {
+                        "dt": "2021-07-15",
+                        "free": true,
+                        "time_end": "16:00",
+                        "time_start": "15:30"
+                    },
+                    {
+                        "dt": "2021-07-15",
+                        "free": true,
+                        "time_end": "16:30",
+                        "time_start": "16:00"
+                    },
+                    {
+                        "dt": "2021-07-15",
+                        "free": true,
+                        "time_end": "17:00",
+                        "time_start": "16:30"
+                    },
+                    {
+                        "dt": "2021-07-15",
+                        "free": true,
+                        "time_end": "17:30",
+                        "time_start": "17:00"
+                    },
+                    {
+                        "dt": "2021-07-15",
+                        "free": true,
+                        "time_end": "18:00",
+                        "time_start": "17:30"
+                    },
+                    {
+                        "dt": "2021-07-15",
+                        "free": true,
+                        "time_end": "18:30",
+                        "time_start": "18:00"
+                    },
+                    {
+                        "dt": "2021-07-15",
+                        "free": true,
+                        "time_end": "19:00",
+                        "time_start": "18:30"
+                    },
+                    {
+                        "dt": "2021-07-15",
+                        "free": true,
+                        "time_end": "19:30",
+                        "time_start": "19:00"
+                    },
+                    {
+                        "dt": "2021-06-15",
+                        "free": false,
+                        "time_end": "18:20",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-06-15",
+                        "free": false,
+                        "time_end": "20:00",
+                        "time_start": "18:30"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": false,
+                        "time_end": "10:20",
+                        "time_start": "08:10"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": false,
+                        "time_end": "12:20",
+                        "time_start": "10:30"
+                    },
+                    {
+                        "dt": "2021-06-16",
+                        "free": false,
+                        "time_end": "14:00",
+                        "time_start": "12:30"
+                    },
+                    {
+                        "dt": "2021-06-17",
+                        "free": false,
+                        "time_end": "11:10",
+                        "time_start": "09:30"
+                    },
+                    {
+                        "dt": "2021-06-17",
+                        "free": false,
+                        "time_end": "12:20",
+                        "time_start": "11:20"
+                    },
+                    {
+                        "dt": "2021-06-17",
+                        "free": false,
+                        "time_end": "14:00",
+                        "time_start": "12:40"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": false,
+                        "time_end": "15:50",
+                        "time_start": "13:00"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": false,
+                        "time_end": "17:00",
+                        "time_start": "16:00"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": false,
+                        "time_end": "18:50",
+                        "time_start": "17:10"
+                    },
+                    {
+                        "dt": "2021-06-22",
+                        "free": false,
+                        "time_end": "19:30",
+                        "time_start": "19:00"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": false,
+                        "time_end": "16:00",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": false,
+                        "time_end": "16:20",
+                        "time_start": "16:10"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": false,
+                        "time_end": "17:30",
+                        "time_start": "16:30"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": false,
+                        "time_end": "18:40",
+                        "time_start": "17:40"
+                    },
+                    {
+                        "dt": "2021-06-24",
+                        "free": false,
+                        "time_end": "19:20",
+                        "time_start": "18:50"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": false,
+                        "time_end": "09:40",
+                        "time_start": "09:00"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": false,
+                        "time_end": "10:40",
+                        "time_start": "10:10"
+                    },
+                    {
+                        "dt": "2021-06-25",
+                        "free": false,
+                        "time_end": "11:20",
+                        "time_start": "11:00"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": false,
+                        "time_end": "14:20",
+                        "time_start": "14:00"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": false,
+                        "time_end": "18:20",
+                        "time_start": "18:00"
+                    },
+                    {
+                        "dt": "2021-06-29",
+                        "free": false,
+                        "time_end": "19:30",
+                        "time_start": "19:00"
+                    },
+                    {
+                        "dt": "2021-07-01",
+                        "free": false,
+                        "time_end": "13:30",
+                        "time_start": "13:00"
+                    },
+                    {
+                        "dt": "2021-07-08",
+                        "free": false,
+                        "time_end": "18:10",
+                        "time_start": "18:00"
+                    }
+                ],
+                "efio": "\u041a\u043e\u043b\u0447\u0438\u043d\u0430 \u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043d\u0430",
+                "espec": "\u0413\u0438\u043d\u0435\u043a\u043e\u043b\u043e\u0433\u0438\u044f"
+            }
+        }
+    }
+}
